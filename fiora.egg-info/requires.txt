@@ -1,0 +1,9 @@
+numpy
+seaborn
+torch
+torch_geometric
+dill
+rdkit
+treelib
+spectrum_utils
+setuptools>=24.2.0

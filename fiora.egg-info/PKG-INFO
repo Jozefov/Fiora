@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: fiora
+Version: 0.0.1
+Author: Yannek Nowatzky
+License: MIT
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.10.8
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: torch
+Requires-Dist: torch_geometric
+Requires-Dist: dill
+Requires-Dist: rdkit
+Requires-Dist: treelib
+Requires-Dist: spectrum_utils
+Requires-Dist: setuptools>=24.2.0
+
+file: README.md
